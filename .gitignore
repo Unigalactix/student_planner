@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.venv/
+venv/
+env/
+ENV/
+.env
+.env.*
+pip-log.txt
+pip-delete-this-directory.txt
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+pytest_cache/
+
+# SQLite
+*.db
+*.sqlite3
+student_planner.db
+
+# Node
+node_modules/
+dist/
+.npm/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+.vite/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build
+build/
+coverage/
+
+# Misc
+*.env
+.env.local
